@@ -1,0 +1,43 @@
+Task: '2021-08-30'
+TrainingFraction:
+- 0.95
+alphavalue: 0.7
+batch_size: 8
+bodyparts:
+- ear_left
+- ear_right
+- tail_set
+- nose
+colormap: rainbow
+corner2move2:
+- 50
+- 50
+cropping: false
+date: Aug30
+default_augmenter: default
+default_net_type: resnet_50
+dotsize: 12
+identity: null
+iteration: 0
+move2corner: true
+multianimalproject: false
+numframes2pick: 100
+pcutoff: 0.6
+project_path: C:\Users\SSG_Share_1\Haruna\Deeplabcut-trainer\2021-08-30-eggplants-2021-08-30
+scorer: eggplants
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+snapshotindex: -1
+start: 0
+stop: 1
+video_sets:
+  C:\Users\SSG_Share_1\Haruna\Deeplabcut-trainer\2021-08-30-eggplants-2021-08-30\videos\test_body_with_cable.avi:
+    crop: 0, 1280, 0, 960
+x1: 0
+x2: 640
+y1: 277
+y2: 624

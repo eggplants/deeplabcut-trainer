@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\SSG_Share_1\\Haruna\\Deeplabcut-trainer\\2021-08-30-eggplants-2021-08-30\\dlc-models\\iteration-0\\2021-08-30Aug30-trainset95shuffle1\\train\\snapshot-500"
+all_model_checkpoint_paths: "C:\\Users\\SSG_Share_1\\Haruna\\Deeplabcut-trainer\\2021-08-30-eggplants-2021-08-30\\dlc-models\\iteration-0\\2021-08-30Aug30-trainset95shuffle1\\train\\snapshot-500"
